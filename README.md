@@ -1,0 +1,2 @@
+# ShiranuiTextStore
+Raw Text Storage
